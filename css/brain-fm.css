@@ -55,7 +55,64 @@ input[type='button1'] {
   background-image: linear-gradient(to right, rgb(202, 158, 76), rgb(255, 136, 0));
   color: white;
   font-size: 30px;
-  margin-top: 50px;
+  margin-top: 70px;
   white-space: normal;
   width: 375px;
+}
+
+.section-3 {
+  color: white;
+}
+
+.headline-5 {
+  font-weight: bold;
+  font-size: 24px;
+  margin: 400px 0px 200px 825px;
+}
+
+.section-4 {
+  margin-left: 130px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.headline-6 {
+  font-weight: bold;
+  font-size: 42px;
+}
+
+.headline-7 {
+  font-size: 28px;
+}
+
+.headline-8 {
+  font-size: 27px;
+}
+
+.headline-9 {
+  font-weight: bold;
+  font-size: 28px;
+  text-decoration: underline;
+  text-underline-offset: 10px;
+  text-decoration-thickness: 4px;
+}
+
+.headline-10 {
+  font-weight: bold;
+  font-size: 42px;
+  margin-top: 83px;
+}
+
+.headline-11 {
+  font-size: 27px;
+}
+
+.headline-12 {
+  font-size: 27px;
+}
+
+.headline-13 {
+  font-size: 27px;
 }
