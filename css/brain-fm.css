@@ -71,11 +71,13 @@ input[type='button1'] {
 }
 
 .section-4 {
-  margin-left: 130px;
+  margin-left: 80px;
+  margin-right: 160px;
   color: white;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  width: 1750px;
 }
 
 .headline-6 {
@@ -84,11 +86,11 @@ input[type='button1'] {
 }
 
 .headline-7 {
-  font-size: 28px;
+  font-size: 25px;
 }
 
 .headline-8 {
-  font-size: 27px;
+  font-size: 25px;
 }
 
 .headline-9 {
@@ -101,18 +103,18 @@ input[type='button1'] {
 
 .headline-10 {
   font-weight: bold;
-  font-size: 42px;
-  margin-top: 83px;
+  font-size: 38px;
+  margin-top: 85px;
 }
 
 .headline-11 {
-  font-size: 27px;
+  font-size: 25px;
 }
 
 .headline-12 {
-  font-size: 27px;
+  font-size: 25px;
 }
 
 .headline-13 {
-  font-size: 27px;
+  font-size: 25px;
 }
